@@ -1,7 +1,7 @@
 # Intelligent-Control-and-Fault-Diagnosis
 This repository is designed for the graduate course "Intelligent Control and Fault Diagnosis," intended for control engineering students. It contains various code implementations to explore multiple approaches in control and fault diagnosis, leveraging the mathematical relationships inherent in these methods.
 
-## Course Titles and Links
+## Course Titles
 
 | Course Title | Link |
 |--------------|------|
@@ -10,9 +10,7 @@ This repository is designed for the graduate course "Intelligent Control and Fau
 | Identifier-Based Adaptive Multi-Layer Perceptron Control | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Control/Identifier-Based%20MLP) |
 | Identifier-Based Adaptive Radial Basis Function NN Control | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Control/Identifier-Based%20RBF) |
 | Identifier-Based Adaptive Radial Basis Function NN Control | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Control/Identifier-Based%20RBF) |
-
-### Fault Detection Methods
-
+s
 | Course Title | Link |
 |--------------|------|
 | Model-Based Fault Detection with Adaptive Multi-Layer Perceptron | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Fault/Model-Based%20MLP) |
