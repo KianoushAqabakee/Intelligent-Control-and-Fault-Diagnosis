@@ -10,7 +10,7 @@ This repository is designed for the graduate course "Intelligent Control and Fau
 | Identifier-Based Adaptive Multi-Layer Perceptron Control | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Control/Identifier-Based%20MLP) |
 | Identifier-Based Adaptive Radial Basis Function NN Control | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Control/Identifier-Based%20RBF) |
 | Identifier-Based Adaptive Radial Basis Function NN Control | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Control/Identifier-Based%20RBF) |
-s
+
 | Course Title | Link |
 |--------------|------|
 | Model-Based Fault Detection with Adaptive Multi-Layer Perceptron | [Link](https://github.com/KianoushAqabakee/Intelligent-Control-and-Fault-Diagnosis/tree/main/Fault/Model-Based%20MLP) |
